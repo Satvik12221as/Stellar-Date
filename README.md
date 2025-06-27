@@ -19,7 +19,6 @@
 - **React** (TypeScript)
 - **Vite** – lightning-fast build tool
 - **Tailwind CSS** – modern styling
-- **Builder.io** – visual CMS integration
 - **GitHub Pages** – for hosting
 
 ---
