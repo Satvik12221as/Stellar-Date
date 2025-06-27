@@ -9,7 +9,6 @@
 
 - 🛰️ Discover important space missions/events by date
 - 📆 Responsive and modern UI
-- 🌌 Visually designed with Builder.io
 - ⚡ Super fast frontend with Vite + React + TypeScript
 - 🌈 Utility-first styling with Tailwind CSS
 
