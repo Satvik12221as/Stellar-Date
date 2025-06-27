@@ -1,6 +1,6 @@
 # 🌠 Stellar Date – Explore Space History, One Day at a Time
 
-**Stellar Date** is an interactive web app that lets users explore major space events that happened on this day in history. Built with React, TypeScript, Tailwind CSS, and powered by Builder.io, this project combines design and data for a cosmic experience.
+**Stellar Date** is an interactive web app that lets users explore major space events that happened on this day in history. Built with React, TypeScript, Tailwind CSS, this project combines design and data for a cosmic experience.
 
 
 ---
@@ -20,7 +20,7 @@
 - **Vite** – lightning-fast build tool
 - **Tailwind CSS** – modern styling
 - **Builder.io** – visual CMS integration
-- **GitHub Pages / Vercel / Netlify** – for hosting
+- **GitHub Pages** – for hosting
 
 ---
 
