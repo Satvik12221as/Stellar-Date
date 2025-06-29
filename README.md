@@ -25,7 +25,7 @@
 
 ## 📂 How to Run Locally
 
-### 1. Clone the repository
+### 1. Clone the repository on command prompt
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/Stellar-Date.git
