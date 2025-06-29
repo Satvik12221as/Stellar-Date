@@ -25,11 +25,11 @@
 
 ## 📂 How to Run Locally
 
+Downlaod the zip file and extract the zip and then follow this process to run the website
+
 ### 1. Clone the repository on command prompt
 
-```bash
-git clone https://github.com/YOUR_USERNAME/Stellar-Date.git
-cd Stellar-Date
+cd Desktop/Stellar-Date (copy the path where the file is stored) 
 
 ---
 
