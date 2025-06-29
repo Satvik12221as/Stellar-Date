@@ -25,6 +25,7 @@
 
 ## 📂 How to Run Locally
 
+
 Downlaod the zip file and extract the zip and then follow this process to run the website
 
 ---
@@ -33,10 +34,8 @@ Downlaod the zip file and extract the zip and then follow this process to run th
 
 cd Desktop/Stellar-Date (copy the path where the file is stored) 
 
----
 
 npm install
 
----
 
 npm run dev
