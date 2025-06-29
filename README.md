@@ -27,6 +27,8 @@
 
 Downlaod the zip file and extract the zip and then follow this process to run the website
 
+---
+
 ### 1. Clone the repository on command prompt
 
 cd Desktop/Stellar-Date (copy the path where the file is stored) 
