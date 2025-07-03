@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌠 Stellar Date
 
 > **Explore what happened in space on *this very date* in history.**  
@@ -74,6 +75,3 @@ npm install
 
 # Run the development server
 npm run dev
-
-
-
