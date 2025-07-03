@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🌠 Stellar Date
 
 > **Explore what happened in space on *this very date* in history.**  
