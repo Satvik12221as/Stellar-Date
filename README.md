@@ -38,7 +38,7 @@ From space missions to celestial discoveries, this site showcases hand-picked co
 
 ## 🔗 Live Website
 
-👉 [View Stellar Date](https://your-username.netlify.app) 
+👉 [View Stellar Date](https://stellardate.netlify.app/) 
 
 ---
 
